@@ -28,9 +28,9 @@ import android.view.MenuItem;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragment;
 
-import com.awaken.support.preferences.SwitchPreference;
-import com.awaken.support.preferences.SystemSettingSeekBarPreference;
-import com.awaken.support.preferences.SystemSettingSwitchPreference;
+import com.dirtyunicorns.support.preferences.SwitchPreference;
+import com.dirtyunicorns.support.preferences.SystemSettingSeekBarPreference;
+import com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference;
 
 public class DozeSettings extends PreferenceActivity implements PreferenceFragment.OnPreferenceStartFragmentCallback {
 
